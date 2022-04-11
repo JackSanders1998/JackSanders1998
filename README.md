@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JackSanders1998
-- 👀 I’m interested in full stack web development, music, ad-tech, and basketball.
-- 🌱 I’m currently learning Django and Svelte.
+- 👀 I’m interested in full software development, music, and basketball.
+- 🌱 I’m currently ha ing fun with Next.js, TailWind CSS, and MongoDB in my free time.
 - 💞️ I’m looking to collaborate on ways to modernize the music industry,
 - 📫 How to reach me: jacklewissanders@gmail.com
 
