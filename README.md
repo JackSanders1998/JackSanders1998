@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JackSanders1998
-- 👀 I’m interested in full software development, music, and basketball.
-- 🌱 I’m currently ha ing fun with Next.js, TailWind CSS, and MongoDB in my free time.
-- 💞️ I’m looking to collaborate on ways to modernize the music industry,
+- 👀 I’m interested in software development, rock climbing, music, and basketball.
+- 🌱 I’m currently having fun with Rust and ways to track my rock climbing progress.
+- 💞️ I’m looking to collaborate on ways to modernize the rock climbing and music industry,
 - 📫 How to reach me: jacklewissanders@gmail.com
 
 <!---
